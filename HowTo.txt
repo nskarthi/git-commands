@@ -1,0 +1,3 @@
+Steps to run the code:
+  javac HelloWorld.java
+  java HelloWorld
