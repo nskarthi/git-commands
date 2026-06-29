@@ -1,2 +1,1 @@
-Learning how to make use of the new git commands
-
+Learning how to make use of advances GIT commands
