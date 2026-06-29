@@ -1,3 +1,5 @@
 Steps to run the code:
-  javac HelloWorld.java
-  java HelloWorld
+    # This code compiles the java code
+        javac HelloWorld.java
+    # This code executes the compiled java code
+        java HelloWorld
